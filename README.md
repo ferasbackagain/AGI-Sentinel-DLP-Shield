@@ -97,7 +97,7 @@ Key Points:
 
 **...Make sure that the first row contains the columns you want to check.**
 ```bash
-python agi_sentinel_master.py --csv data.csv --col user_chat
+ python -m src.agi_sentinel.cli --csv customers.csv
 ````
 
 **Security & Privacy Assurance:**
