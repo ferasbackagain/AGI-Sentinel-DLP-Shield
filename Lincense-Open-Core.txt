@@ -1,0 +1,20 @@
+Copyright (c) 2026 Feras Khatib
+All rights reserved.
+
+Permission is hereby granted to use this software for:
+- Educational purposes
+- Research and evaluation
+- Non-commercial internal use
+
+The following is strictly prohibited without explicit written permission
+from the author:
+- Commercial use
+- Offering the software as part of a paid service
+- Redistribution as a proprietary or closed-source product
+
+Any modification or derivative work must retain:
+- Original author attribution
+- Reference to the original repository
+
+For commercial licensing or enterprise use, contact:
+feras.khatib@proton.me
