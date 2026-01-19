@@ -1,0 +1,89 @@
+"""
+AGI Sentinel DLP Shield - Production Ready Security Framework
+"""
+
+import sys
+import os
+from pathlib import Path
+
+# Package metadata
+version = "2.1.0"
+author = "Feras Khatib"
+author_email = "feras.khatib@proton.me"
+license = "AGPLv3"
+copyright = f"Copyright 2024, {__author__}"
+status = "Production"
+description = "Enterprise-grade Data Loss Prevention for AI/AGI Systems"
+
+# Package paths
+_PACKAGE_ROOT = Path(__file__).parent
+_PROJECT_ROOT = _PACKAGE_ROOT.parent.parent
+
+# Logging configuration
+import logging
+logging.getLogger(__name__).addHandler(logging.NullHandler())
+
+# Version check
+def check_python_version():
+    """Check Python version compatibility"""
+    required = (3, 8)
+    current = sys.version_info[:2]
+    if current < required:
+        raise RuntimeError(
+            f"Python {required[0]}.{required[1]} or higher is required. "
+            f"Current: {sys.version}"
+        )
+
+# Check on import
+check_python_version()
+
+# Convenience imports
+try:
+    from .core import (
+        AGISentinelCore,
+        AGISentinel,
+        ScanResult,
+        SecurityIncident,
+        ThreatSeverity,
+        ActionType
+    )
+    
+    from .cli import main as cli_main
+    
+    # Define public API
+    all = [
+        "AGISentinelCore",
+        "AGISentinel",
+        "ScanResult", 
+        "SecurityIncident",
+        "ThreatSeverity",
+        "ActionType",
+        "cli_main",
+        "get_version",
+        "check_system"
+    ]
+    
+except ImportError as e:
+    # Graceful handling during setup
+    if "No module named" not in str(e):
+        raise
+
+# Utility functions
+def get_version():
+    """Get package version"""
+    return version
+
+def check_system():
+    """Check system compatibility"""
+    import platform
+    info = {
+        "package_version": version,
+        "python_version": sys.version,
+        "platform": platform.platform(),
+        "package_path": str(_PACKAGE_ROOT),
+        "project_path": str(_PROJECT_ROOT)
+    }
+    return info
+
+# Export version info
+version_info = tuple(map(int, version.split('.')))

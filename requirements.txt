@@ -1,0 +1,39 @@
+# =================================================================
+# AGI Sentinel DLP Shield - Production Dependencies
+# Version: 2.1.0
+# Author: Feras Khatib
+# License: AGPLv3
+# =================================================================
+
+# Core Data Processing
+pandas>=2.0.0,<3.0.0            # Data manipulation and CSV processing
+numpy>=1.24.0,<2.0.0            # Numerical operations (pandas dependency)
+
+# Security & Cryptography
+cryptography>=41.0.0,<43.0.0    # Encryption and security utilities
+regex>=2023.1.1,<2024.0.0       # Advanced regular expressions
+
+# Cloud Integration (Optional)
+boto3>=1.28.0,<2.0.0            # AWS SDK for S3 integration
+azure-storage-blob>=12.0.0,<13.0.0  # Azure Blob Storage
+google-cloud-storage>=2.0.0,<3.0.0  # Google Cloud Storage
+
+# Performance & Utilities
+ujson>=5.0.0,<6.0.0             # Ultra-fast JSON parsing
+pyarrow>=12.0.0,<13.0.0         # Efficient data serialization
+tqdm>=4.65.0,<5.0.0             # Progress bars for long operations
+
+# Testing & Development
+pytest>=7.0.0,<8.0.0            # Testing framework
+pytest-cov>=4.0.0,<5.0.0        # Test coverage
+black>=23.0.0,<24.0.0           # Code formatting
+mypy>=1.0.0,<2.0.0              # Static type checking
+flake8>=6.0.0,<7.0.0            # Code linting
+
+# Documentation
+sphinx>=7.0.0,<8.0.0            # Documentation generation
+sphinx-rtd-theme>=1.0.0,<2.0.0  # ReadTheDocs theme
+
+# Platform Specific (Optional)
+# For Windows: pip install pywin32
+# For Linux: apt-get install python3-dev build-essential
