@@ -14,7 +14,7 @@ https://img.shields.io/badge/Feras.Khatib-red.svg
 
 👨‍💻 About the Author
 
-Feras Khatib- [Senior AI Security Engineer] :
+**Feras Khatib-- Senior AI Security Engineer**
 
 Contact Information:
 
