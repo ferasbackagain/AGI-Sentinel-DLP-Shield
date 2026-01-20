@@ -65,6 +65,18 @@ Contact Information:
 
 ---
 
+**Where it fits**
+
+
+
+AGI Sentinel is intended to be used:
+
+ • Before training or deploying AI/LLM systems
+
+ • When handling sensitive datasets in AI pipelines
+
+ • As a security control or validation layer in AI security assessments
+
 🚀 Quick Start
 
 Installation in 60 Seconds
