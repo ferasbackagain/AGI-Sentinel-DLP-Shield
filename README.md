@@ -83,7 +83,7 @@ cd AGI-Sentinel-DLP-Shield
 pip install -e 
 ```
 **RUN**
-
+YOU MUST ADD THE FILE TO TEST 
 
 ```bash
  python -m src.agi_sentinel.cli --csv customers.csv
