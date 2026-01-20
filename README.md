@@ -509,7 +509,7 @@ pip install agi-sentinel-dlp-shield
 Step 1: Copy and Paste
 
 1. Copy the entire content above
-2. Create a new file called README.md in your project
+2. Create a new file called README.md in your project 
 3. Paste the content
 
 Step 2: Customize for Your Information
