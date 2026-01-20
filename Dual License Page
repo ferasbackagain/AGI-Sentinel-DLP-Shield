@@ -129,7 +129,6 @@ We regularly monitor:
 ---
 
 ## 📊 **License Comparison**
-```bash
 | Feature | Personal (AGPLv3) | Startup | Enterprise |
 |---------|-------------------|---------|------------|
 | **Price** | Free | $999/year | $19,999/year |
@@ -140,22 +139,22 @@ We regularly monitor:
 | **Updates** | Delayed | 1 year | Lifetime |
 | **SLA** | None | 99% | 99.9% |
 | **Custom Features** | ❌ No | ❌ No | ✅ Yes |
-```
+
 
 
 License Key Format:
-```bash
+
 Format: AGI-XXXX-YYYY-ZZZZ-AAAA
 Where:
 - XXXX: Company ID
 - YYYY: Expiry date (YYYYMM)
 - ZZZZ: Feature flags
 - AAAA: Digital signature
-```
+
 
 
 📝 Sample License Agreement
-```bash
+
 Commercial License Agreement
 
 Between: Feras Khatib (Licensor)
@@ -204,7 +203,7 @@ By using this software commercially without a license, you automatically agree t
 Last Updated: [Current Date]
 Version: License Agreement v2.0
 Effective Date: [Agreement Start Date]
-```
+
 
 
 © 2026 Feras Khatib. All rights reserved.
