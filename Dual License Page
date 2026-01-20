@@ -129,7 +129,7 @@ We regularly monitor:
 ---
 
 ## 📊 **License Comparison**
-
+```bash
 | Feature | Personal (AGPLv3) | Startup | Enterprise |
 |---------|-------------------|---------|------------|
 | **Price** | Free | $999/year | $19,999/year |
@@ -137,6 +137,79 @@ We regularly monitor:
 | **Modifications** | ✅ Allowed | ✅ Allowed | ✅ Allowed |
 | **Distribution** | ✅ Non-commercial | ✅ Limited | ✅ Unlimited |
 | **Support** | Community | Email | 24/7 Phone |
+| **Updates** | Delayed | 1 year | Lifetime |
+| **SLA** | None | 99% | 99.9% |
+| **Custom Features** | ❌ No | ❌ No | ✅ Yes |
+
+```
 
 
+License Key Format:
+```bash
+Format: AGI-XXXX-YYYY-ZZZZ-AAAA
+Where:
+- XXXX: Company ID
+- YYYY: Expiry date (YYYYMM)
+- ZZZZ: Feature flags
+- AAAA: Digital signature
+```
+
+
+📝 Sample License Agreement
+```bash
+Commercial License Agreement
+
+Between: Feras Khatib (Licensor)
+And: [Your Company] (Licensee)
+
+Section 1: Grant of License
+Licensor grants Licensee a non-exclusive, non-transferable license to use AGI Sentinel DLP Shield for commercial purposes.
+
+Section 2: Fees
+Licensee agrees to pay:
+
+· Annual License Fee: $[Amount]
+· Payment Terms: Net 30 days
+· Renewal: Automatic unless canceled
+
+Section 3: Term
+This agreement is valid for 12 months from the Effective Date.
+
+Section 4: Termination
+Either party may terminate with 30 days written notice.
+
+
+
+Response Time:
+
+· Initial response: Within 24 hours
+· License agreement: Within 48 hours
+· Activation: Within 1 hour of payment
+
+
+⚠️ Important Notice
+
+This licensing model complies with:
+
+· Open Source Initiative (OSI) guidelines
+· Free Software Foundation (FSF) principles
+· International copyright law
+· Software licensing best practices
+
+By using this software commercially without a license, you automatically agree to:
+
+1. Pay $100,000 penalty
+2. Enter into a 50/50 revenue sharing agreement
+3. Cover all legal fees
+4. Publicly acknowledge the violation
+
+
+Last Updated: [Current Date]
+Version: License Agreement v2.0
+Effective Date: [Agreement Start Date]
+
+```
+
+© 2026 Feras Khatib. All rights reserved.
+AGI Sentinel DLP Shield is a trademark of Feras Khatib.
 
