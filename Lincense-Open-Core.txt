@@ -1,20 +1,45 @@
+Commercial Use Terms - AGI Sentinel DLP Shield
+
+📜 Clause 1: Intellectual Property Rights
+
+1. All intellectual property rights for this tool are owned by the developer Feras Khatib
+2. The code is licensed under AGPLv3 for free and open-source use
+3. Any commercial use requires prior written consent
+
+🤝 Clause 2: Automatic Partnership
+
+In case of:
+
+· Using the code in any form (direct, modified, derived from it)
+· Using the core idea of the tool
+· Using algorithms or patterns (Regex Patterns)
+· Creating a similar product operating on the same principle
+
+The user must:
+
+1. Acknowledge developer Feras Khatib as original author and partner
+2. Sign a 50/50 partnership agreement
+3. Share 50% of revenues and profits
+4. Maintain the name "AGI Sentinel DLP Shield" or "Feras Khatib" in the product
+
+⚖️ Clause 3: Legal Penalties
+
+· Any violation of these terms exposes the user to legal action
+· Compensation up to 10x achieved profits
+· Legal fees borne by the violator
+· Product removal from markets
+
+📧 Clause 4: Contact
+
+For commercial use or partnership:
+
+· Email: feras.khatib@proton.me
+· Phone:+16162278518 USA
+
+⚠️ Important Notice
+
+This is an additional commercial license that supplements the AGPLv3 license. While AGPLv3 allows commercial use, this agreement creates an automatic 50/50 partnership for any commercial implementation. By using this software commercially, you automatically agree to these terms and enter into a binding partnership agreement with Feras Khatib.بدي اضبط حقي
+
 Copyright (c) 2026 Feras Khatib
-All rights reserved.
 
-Permission is hereby granted to use this software for:
-- Educational purposes
-- Research and evaluation
-- Non-commercial internal use
 
-The following is strictly prohibited without explicit written permission
-from the author:
-- Commercial use
-- Offering the software as part of a paid service
-- Redistribution as a proprietary or closed-source product
-
-Any modification or derivative work must retain:
-- Original author attribution
-- Reference to the original repository
-
-For commercial licensing or enterprise use, contact:
-feras.khatib@proton.me
