@@ -6,7 +6,7 @@ https://img.shields.io/badge/License-AGPLv3-blue.svg
 https://img.shields.io/badge/python-3.8+-green.svg
 https://img.shields.io/badge/version-2.1.0-orange.svg
 https://img.shields.io/badge/security-enterprise-red.svg
-https://img.shields.io/badge/author--purple.svg
+https://img.shields.io/badge/feras-red.svg
 
 👨‍💻 About the Author
 
