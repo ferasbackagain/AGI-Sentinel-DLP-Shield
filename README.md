@@ -1,16 +1,20 @@
 🛡️ AGI Sentinel DLP Shield v2.1.0
 
-Advanced AI Security Protection System - Created by [Your Name Here]
+Advanced AI Security Protection System - Created by Feras Khatib
 
 https://img.shields.io/badge/License-AGPLv3-blue.svg
+
 https://img.shields.io/badge/python-3.8+-green.svg
+
 https://img.shields.io/badge/version-2.1.0-orange.svg
+
 https://img.shields.io/badge/security-enterprise-red.svg
-https://img.shields.io/badge/feras-red.svg
+
+https://img.shields.io/badge/Feras.Khatib-red.svg
 
 👨‍💻 About the Author
 
-[Feras Khatib] - [Senior AI Security Engineer] :
+Feras Khatib- [Senior AI Security Engineer] :
 
 Contact Information:
 
