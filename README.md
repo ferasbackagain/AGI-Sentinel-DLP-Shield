@@ -118,11 +118,10 @@ pip install -r requirements.txt
 ```bash
 pip install -e .
 ```
-# 5. Verify installation
+# 5. RUN
 ```bash
-agi-sentinel --version
-```
-
+ python -m src.agi_sentinel.cli --csv customers.csv
+   
 
 
 🎯 Usage Guide
