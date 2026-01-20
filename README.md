@@ -419,7 +419,7 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPLv
 
 Key License Points:
 
-· ✅ Free to use for personal and commercial projects
+· ✅ Free to use for personal and NON commercial projects
 · ✅ Open source - Complete source code available
 · ✅ Freedom to modify and distribute
 · ⚠️ Must share modifications if distributed
