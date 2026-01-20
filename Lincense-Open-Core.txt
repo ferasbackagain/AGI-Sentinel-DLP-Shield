@@ -1,45 +1,142 @@
-Commercial Use Terms - AGI Sentinel DLP Shield
+📄 Dual License Page - AGI Sentinel DLP Shield
+# AGI Sentinel DLP Shield - Licensing Agreement
 
-📜 Clause 1: Intellectual Property Rights
+## 📋 Dual Licensing Model
 
-1. All intellectual property rights for this tool are owned by the developer Feras Khatib
-2. The code is licensed under AGPLv3 for free and open-source use
-3. Any commercial use requires prior written consent
+### 🆓 **License 1: Non-Commercial Use (AGPLv3)**
+This license is **FREE** for personal, educational, and non-commercial use:
 
-🤝 Clause 2: Automatic Partnership
+#### ✅ **You MAY:**
+- Use the software for **personal projects**
+- Use in **educational institutions**
+- Use for **non-profit organizations**
+- Modify and share with **non-commercial intent**
+- Use in **research and academic work**
 
-In case of:
+#### ❌ **You MAY NOT:**
+- Use for **any commercial purposes**
+- Use in **SaaS or cloud services**
+- Integrate into **paid products**
+- Use in **revenue-generating activities**
+- Resell or **license to others**
 
-· Using the code in any form (direct, modified, derived from it)
-· Using the core idea of the tool
-· Using algorithms or patterns (Regex Patterns)
-· Creating a similar product operating on the same principle
+---
 
-The user must:
+### 💼 **License 2: Commercial Use (Paid License)**
+This license is **REQUIRED** for any business or commercial use:
 
-1. Acknowledge developer Feras Khatib as original author and partner
-2. Sign a 50/50 partnership agreement
-3. Share 50% of revenues and profits
-4. Maintain the name "AGI Sentinel DLP Shield" or "Feras Khatib" in the product
+#### **Commercial Use Includes:**
+- Using in a company (any size)
+- Integrating into paid software
+- Offering as a service (SaaS)
+- Generating revenue (directly or indirectly)
+- Using in client projects
 
-⚖️ Clause 3: Legal Penalties
+#### **Commercial Licensing Options:**
 
-· Any violation of these terms exposes the user to legal action
-· Compensation up to 10x achieved profits
-· Legal fees borne by the violator
-· Product removal from markets
+##### **Option A: Revenue Sharing (50/50)**
+- 50% of all revenue generated using AGI Sentinel
+- Automatic partnership with Feras Khatib
+- Co-branding and joint marketing
+- *Best for startups and new ventures*
 
-📧 Clause 4: Contact
+##### **Option B: Annual License**
+- **Startup**: $999/year (up to 10 employees)
+- **SMB**: $4,999/year (up to 100 employees)
+- **Enterprise**: $19,999/year (unlimited)
+- Includes technical support and updates
 
-For commercial use or partnership:
+##### **Option C: Perpetual License**
+- **One-time fee**: $9,999
+- Lifetime usage rights
+- 1 year of free updates
+- Optional support contract: $1,999/year
 
-· Email: feras.khatib@proton.me
-· Phone:+16162278518 USA
+---
 
-⚠️ Important Notice
+## 📝 **How to Obtain Commercial License**
 
-This is an additional commercial license that supplements the AGPLv3 license. While AGPLv3 allows commercial use, this agreement creates an automatic 50/50 partnership for any commercial implementation. By using this software commercially, you automatically agree to these terms and enter into a binding partnership agreement with Feras Khatib.بدي اضبط حقي
+### **Step 1: Contact**
+Send email to: **licensing@feraskhatib.com** with:
+1. Company name and website
+2. Intended use case
+3. Estimated revenue/user count
+4. Preferred license option
 
-Copyright (c) 2026 Feras Khatib
+### **Step 2: Agreement**
+We will provide:
+1. Custom license agreement
+2. Payment terms
+3. Support package details
+4. Implementation timeline
+
+### **Step 3: Activation**
+After payment, you receive:
+1. License key file
+2. Commercial binary (optional)
+3. Priority support access
+4. Partnership certificate
+
+---
+
+## ⚖️ **Legal Enforcement**
+
+### **Unauthorized Commercial Use:**
+- **Detection**: Automated monitoring systems
+- **Penalty**: $100,000 per violation
+- **Legal Action**: International court jurisdiction
+- **Product Takedown**: From all app stores/platforms
+
+### **Compliance Checks:**
+We regularly monitor:
+- App stores for unauthorized copies
+- GitHub for commercial forks
+- Company websites for integrations
+- Cloud platforms for deployments
+
+---
+
+## 📞 **Contact Information**
+
+### **For Licensing:**
+- **Email**: feras.khatib@proton.me
+-  **Phone**+16162278518
+- **Address**: USA
+
+### **For Legal Inquiries:**
+- 
+**Email**: feras.khatib@proton.me
+-  **Phone**+16162278518
+---
+
+## ❓ **Frequently Asked Questions**
+
+### **Q1: What if I use it internally in my company?**
+**A:** Any company use = Commercial license required.
+
+### **Q2: Can I try it before buying commercial license?**
+**A:** Yes, 30-day evaluation period available. Contact for trial key.
+
+### **Q3: What if I modify the code for my business?**
+**A:** Modified code still requires commercial license.
+
+### **Q4: Are there discounts for non-profits?**
+**A:** Yes, 100% discount for registered 501(c)(3) non-profits.
+
+### **Q5: What about open source projects?**
+**A:** Open source projects can use AGPLv3 version freely.
+
+---
+
+## 📊 **License Comparison**
+
+| Feature | Personal (AGPLv3) | Startup | Enterprise |
+|---------|-------------------|---------|------------|
+| **Price** | Free | $999/year | $19,999/year |
+| **Commercial Use** | ❌ Not allowed | ✅ Allowed | ✅ Allowed |
+| **Modifications** | ✅ Allowed | ✅ Allowed | ✅ Allowed |
+| **Distribution** | ✅ Non-commercial | ✅ Limited | ✅ Unlimited |
+| **Support** | Community | Email | 24/7 Phone |
+
 
 
