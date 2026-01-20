@@ -211,14 +211,6 @@ for file in $INPUT_DIR/*.csv; do
     mv "$file" "$OUTPUT_DIR/"
 done
 ```
-# Generate report
-```bash
-agi-sentinel --report --output "/var/reports/daily_$(date +%Y%m%d).json" >> $LOG_FILE
-```
-```bash
-echo "[$(date)] Scan completed" >> $LOG_FILE
-```
-
 
 🛡️ Protection Types
 
