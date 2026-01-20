@@ -68,10 +68,7 @@ Contact Information:
 🚀 Quick Start
 
 Installation in 60 Seconds
-# Method 1: From PyPI (Recommended)
-```bash
-pip install agi-sentinel-dlp-shield
-```
+
 # Method 2: From Source
 ```bash
 git clone https://github.com/yourusername/AGI-Sentinel-DLP-Shield.git
