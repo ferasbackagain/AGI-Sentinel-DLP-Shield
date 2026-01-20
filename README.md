@@ -78,24 +78,12 @@ cd AGI-Sentinel-DLP-Shield
 ```bash
 pip install -e 
 ```
-# Method 3: Using Docker
-```bash
-docker pull yourusername/agi-sentinel:latest
-```
-Your First Scan
-# Quick test
-```bash
-agi-sentinel --text "My email is test@example.com and card is 4111111111111111"
-```
-# With verbose output
-```bash
-agi-sentinel --text "test@example.com" --verbose
-```
-# Export results
-```bash
-agi-sentinel --text "test@example.com" --export results.json
-```
+**RUN**
 
+
+```bash
+ python -m src.agi_sentinel.cli --csv customers.csv
+```
 📦 Installation
 
 System Requirements
@@ -130,30 +118,8 @@ pip install -e .
 ```bash
 agi-sentinel --version
 ```
-Option 2: Docker Installation
-# Build from Dockerfile
-```bash
-docker build -t agi-sentinel .
-```
-# Run container
-```bash
-docker run -v $(pwd)/data:/app/data agi-sentinel --text "test@example.com"
-```
-# Use pre-built image
-```bash
-docker run -v $(pwd):/data ghcr.io/yourusername/agi-sentinel:latest
-```
 
-# Schedule automated scans (Cron)
-```bash
-echo "0 */2 * * * /opt/agi_sentinel/scripts/production_runner.sh" | sudo crontab -
-```
-# Configure as API service
-```bash
-cd api_server
-pip install -r requirements.txt
-python app.py
----
+
 
 🎯 Usage Guide
 
