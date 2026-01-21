@@ -137,7 +137,7 @@ pip install -e .
 
 Command Structure
 ```bash
-agi-sentinel [MODE] [INPUT] [OPTIONS]
+src.agi_sentinel.cli [MODE] [INPUT] [OPTIONS]
 
 Modes:
   --text        Scan single text
