@@ -14,7 +14,7 @@ setup(
     name="agi-sentinel-dlp-shield",
     version="2.1.0",
     author="Feras Khatib",
-    author_email="feras.khatib@example.com",  # Replace with actual email
+    author_email="feras.khatib@proton.me", 
     description="Enterprise-grade Data Loss Prevention for AI/AGI Systems",
     long_description=long_description,
     long_description_content_type="text/markdown",
