@@ -6,9 +6,15 @@ import argparse
 import sys
 import json
 from pathlib import Path
-
-# استيراد ثابت من core
 from .core import AGISentinelCore, AGISentinel, ScanResult
+import os
+LICENSE = os.getenv("AGI_LICENSE_KEY", "AGPL")
+
+if LICENSE == "AGPL":
+    print("Running in AGPL (non-commercial) mode")
+else:
+    print("Running in COMMERCIAL mode")
+
 
 def display_banner():
     banner = """
