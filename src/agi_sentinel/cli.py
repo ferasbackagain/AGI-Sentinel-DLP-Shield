@@ -21,11 +21,11 @@ def display_banner():
     ╔══════════════════════════════════════════════════════════════╗
     ║                                                              ║
     ║               DLP SHIELD v2.1.0 - ENTERPRISE EDITION         ║
-    ║         Advanced AI Security Protection System              ║
+    ║         Advanced AI Security Protection System               ║
     ║                                                              ║
-    ║               Author: Feras Khatib                          ║
-    ║           Senior AI Security Engineer                       ║
-    ║               License: AGPLv3                               ║
+    ║               Author: Feras Khatib                           ║
+    ║           Senior AI Security Engineer                        ║
+    ║               License: AGPLv3                                ║
     ║                                                              ║
     ╚══════════════════════════════════════════════════════════════╝
     """
